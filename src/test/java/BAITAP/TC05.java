@@ -22,7 +22,7 @@ public class TC05 {
         // Create a WebDriver instance
         String firstName = "Tuan Anh";
         String lastname = "Nguyen";
-        String email_address = "nguyenngoctuananh3001@gmail.com";
+        String email_address = "nguyenngoctuananh3006@gmail.com";
         String password = "123456";
         String confirmPassWord = "123456";
         WebDriver driver = driverFactory.getChromeDriver();
