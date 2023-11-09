@@ -32,7 +32,7 @@ public class TC06_Test {
         loginPage.clickOnMyAccountLink();
         Thread.sleep(2000);
         //Step 3 Login in application using previously created credential
-        loginPage.login("nguyenngoctuananh3006@gmail.com", "123456");
+        loginPage.login("nguyenngoctuananh3007@gmail.com", "123456");
         Thread.sleep(2000);
         //Step 4 Click on MY WISHLIST link
         cartPage.clickOnMyWishlistLink();

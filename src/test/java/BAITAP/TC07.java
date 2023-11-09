@@ -27,7 +27,7 @@ public class TC07 {
         loginPage.clickOnMyAccountLink();
         Thread.sleep(2000);
         //Step 3 Login in application using previously created credential
-        loginPage.login("nguyenngoctuananh3006@gmail.com", "123456");
+        loginPage.login("nguyenngoctuananh3007@gmail.com", "123456");
         Thread.sleep(2000);
         //Step 4 Click on MY ORDERS link
         driver.findElement(By.partialLinkText("MY ORDERS")).click();
